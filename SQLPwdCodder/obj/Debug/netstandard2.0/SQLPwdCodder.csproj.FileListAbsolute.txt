@@ -1,0 +1,14 @@
+D:\Sources\Mobile\Xamarin\SQLPwdCodder\SQLPwdCodder\bin\Debug\netstandard2.0\SQLPwdCodder.deps.json
+D:\Sources\Mobile\Xamarin\SQLPwdCodder\SQLPwdCodder\bin\Debug\netstandard2.0\SQLPwdCodder.dll
+D:\Sources\Mobile\Xamarin\SQLPwdCodder\SQLPwdCodder\bin\Debug\netstandard2.0\ref\SQLPwdCodder.dll
+D:\Sources\Mobile\Xamarin\SQLPwdCodder\SQLPwdCodder\bin\Debug\netstandard2.0\SQLPwdCodder.pdb
+D:\Sources\Mobile\Xamarin\SQLPwdCodder\SQLPwdCodder\obj\Debug\netstandard2.0\SQLPwdCodder.csprojAssemblyReference.cache
+D:\Sources\Mobile\Xamarin\SQLPwdCodder\SQLPwdCodder\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Sources\Mobile\Xamarin\SQLPwdCodder\SQLPwdCodder\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Sources\Mobile\Xamarin\SQLPwdCodder\SQLPwdCodder\obj\Debug\netstandard2.0\SQLPwdCodder.AssemblyInfoInputs.cache
+D:\Sources\Mobile\Xamarin\SQLPwdCodder\SQLPwdCodder\obj\Debug\netstandard2.0\SQLPwdCodder.AssemblyInfo.cs
+D:\Sources\Mobile\Xamarin\SQLPwdCodder\SQLPwdCodder\obj\Debug\netstandard2.0\SQLPwdCodder.csproj.CoreCompileInputs.cache
+D:\Sources\Mobile\Xamarin\SQLPwdCodder\SQLPwdCodder\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Sources\Mobile\Xamarin\SQLPwdCodder\SQLPwdCodder\obj\Debug\netstandard2.0\SQLPwdCodder.dll
+D:\Sources\Mobile\Xamarin\SQLPwdCodder\SQLPwdCodder\obj\Debug\netstandard2.0\ref\SQLPwdCodder.dll
+D:\Sources\Mobile\Xamarin\SQLPwdCodder\SQLPwdCodder\obj\Debug\netstandard2.0\SQLPwdCodder.pdb

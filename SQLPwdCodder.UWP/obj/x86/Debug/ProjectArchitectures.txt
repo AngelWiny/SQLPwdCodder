@@ -1,0 +1,1 @@
+D:\Sources\Mobile\Xamarin\SQLPwdCodder\SQLPwdCodder.UWP\SQLPwdCodder.UWP.csproj;x86
